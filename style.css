@@ -725,7 +725,7 @@ Greece-Page
 .tourist-image {
   max-width: 50%;
   height: 370px;
-  border: 1px solid #ddd;
+  /* border: 1px solid #ddd; */
 }
 
 .tourist-text-block {
@@ -742,7 +742,7 @@ Greece-Page
 .tourist-description {
   padding: 5px 0 3px 0;
   font-size: 18px;
-  border: 1px solid #eee;
+  /* border: 1px solid #eee; */
 }
 
 .secondary-tourist-image {
@@ -751,7 +751,7 @@ Greece-Page
   max-width: 100%;
   height: 40vh;
   object-fit: cover;
-  border: 1px solid #ddd;
+  /* border: 1px solid #ddd; */
 }
 
 /* 
