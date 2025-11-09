@@ -109,7 +109,7 @@ a {
   display: inline-block;
   text-decoration: none;
   padding: 3px;
-  border: 0.1px solid rgba(128, 128, 128, 0.148);
+  /* border: 0.1px solid rgba(128, 128, 128, 0.037); */
 }
 
 /*  HOVER CSS */
